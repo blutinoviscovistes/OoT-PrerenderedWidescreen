@@ -11,5 +11,6 @@ This pack requires the use of GLideN64.
 * [Prerendered Widescreen Pack](https://github.com/blutinoviscovistes/OoT-PrerenderedWidescreen/releases/latest)
 * [OoT Redux Patch](http://www.romhacking.net/hacks/5138)
 * [Floating IPS](https://www.smwcentral.net/?p=section&a=details&id=11474)
+* [Tradução PT-BR](http://www.romhackers.org/modules/PDdownloads/singlefile.php?cid=23&lid=58)
 
 ![Sample](https://raw.githubusercontent.com/blutinoviscovistes/OoT-PrerenderedWidescreen/master/sample.png)
